@@ -1,0 +1,15 @@
+E:\nahuc\repos\Menu\bin\Debug\Menu.exe.config
+E:\nahuc\repos\Menu\bin\Debug\Menu.exe
+E:\nahuc\repos\Menu\bin\Debug\Menu.pdb
+E:\nahuc\repos\Menu\bin\Debug\Menu.xml
+E:\nahuc\repos\Menu\obj\Debug\Menu.vbprojAssemblyReference.cache
+E:\nahuc\repos\Menu\obj\Debug\Menu.Form1.resources
+E:\nahuc\repos\Menu\obj\Debug\Menu.Resources.resources
+E:\nahuc\repos\Menu\obj\Debug\Menu.vbproj.GenerateResource.cache
+E:\nahuc\repos\Menu\obj\Debug\Menu.vbproj.CoreCompileInputs.cache
+E:\nahuc\repos\Menu\obj\Debug\Menu.exe
+E:\nahuc\repos\Menu\obj\Debug\Menu.xml
+E:\nahuc\repos\Menu\obj\Debug\Menu.pdb
+E:\nahuc\repos\Menu\obj\Debug\Menu.Clientes.resources
+E:\nahuc\repos\Menu\obj\Debug\Menu.Proveedores.resources
+E:\nahuc\repos\Menu\obj\Debug\Menu.Listados.resources
